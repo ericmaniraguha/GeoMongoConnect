@@ -1,0 +1,7 @@
+django-environ
+django
+djongo
+setuptools
+djangorestframework
+dnspython
+python-dotenv
